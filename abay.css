@@ -1,0 +1,20 @@
+img.rounded-circle {
+    border-radius: 19% !important; /* Adjust the roundness as needed */
+  }
+  
+.pro-pic{
+    width: 80%;
+
+}
+.web-title{
+    font-weight: bold;
+    font;
+    font-family: 'Lucida Handwriting Std', sans-serif;
+    text-decoration: none;
+    color: aliceblue;
+                                                
+}
+.web-title:hover{
+    color: brown;
+    text-decoration: none;
+}
